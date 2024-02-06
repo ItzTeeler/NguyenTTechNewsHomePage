@@ -7,8 +7,8 @@ With Desktop Tablet and Mobile versions of the web application
 Desktop (1440px)
 Tablet (768px)
 Mobile (375px)
-Peer reviewer - 
-Peer review - 
+Peer reviewer - Adrian Martinez
+Peer review - So far there weren't that many issues with the site, everything looks exactly like it does on the design images, both for desktop and mobile, although there were some visual quirks, regarding responsiveness, at very low widths (i.e galaxy fold), some of the elements clip into the right of the screen, along with the sidebar menu, which can sometimes hide the close button, preventing the user from hiding the sidebar unless the page is reloaded, other than that, it looks great!
 
 
 # Frontend Mentor - News homepage

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter-VariableFont_slnt,wght.ttf');
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-size: 15px;
+    color: #5d5f79;
+}
+
+a:hover {
+    color: hsl(5, 85%, 63%);
+}

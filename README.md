@@ -4,6 +4,9 @@ Lab Name - TechNewsHomePage
 Description - This static web app is built using TailwindCss and Flowbite
 It is supposed to be a one to one representation of the .jpg's in the design folder
 With Desktop Tablet and Mobile versions of the web application
+Desktop (1440px)
+Tablet (768px)
+Mobile (375px)
 Peer reviewer - 
 Peer review - 
 
